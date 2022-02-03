@@ -1,0 +1,26 @@
+body {    
+    background: linear-gradient(to right, #c9da9a 0%, #8bd47c 51%, #89cfb4 100%);
+  }
+  
+  #fetch1{
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    color: rgb(37, 55, 214);
+    width: 150px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  #API1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    background: yellow;
+    padding: 15px;
+    border: 1px solid;
+    border-radius: 25px;
+    width: 400px;
+    margin: 20px;
+    }
+
+   
